@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-# Authors: Gilbert #
-
 import rospy
 from geometry_msgs.msg import Twist, Point, Quaternion
 import tf
